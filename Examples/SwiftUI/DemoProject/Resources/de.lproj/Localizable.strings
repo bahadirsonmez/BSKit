@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  DemoProject
+
+  Created by Bahadir Sonmez on 15.12.2025.
+*/
+
+// MARK: - Movie List
+
+"movieList.title" = "Aktuelle Filme";
+"movieList.searchPlaceholder" = "Filme suchen...";
+"movieList.noResults" = "Keine Ergebnisse gefunden";
+"movieList.noResultsMessage" = "Keine Filme gefunden für \"%@\"";
+"movieList.retry" = "Wiederholen";
+
+// MARK: - Movie List Accessibility
+
+"movieList.accessibility.movieRowHint" = "Doppeltippen, um Filmdetails anzuzeigen";
+"movieList.accessibility.rating" = ", Bewertung: %@";
+"movieList.accessibility.releaseDate" = ", Veröffentlicht: %@";
+"movieList.accessibility.noResults" = "Keine Ergebnisse gefunden für %@";
+"movieList.accessibility.ratingLabel" = "Bewertung: %@";
+
+// MARK: - Movie Detail
+
+"movieDetail.overview" = "Übersicht";
+"movieDetail.information" = "Informationen";
+"movieDetail.status" = "Status";
+"movieDetail.originalTitle" = "Originaltitel";
+"movieDetail.originalLanguage" = "Originalsprache";
+"movieDetail.budget" = "Budget";
+"movieDetail.revenue" = "Einnahmen";
+"movieDetail.retry" = "Wiederholen";
+
+// MARK: - Movie Detail Accessibility
+
+"movieDetail.accessibility.backdropImage" = "Film-Hintergrundbild für %@";
+"movieDetail.accessibility.rating" = "Bewertung: %@";
+"movieDetail.accessibility.releaseDate" = "Veröffentlichungsdatum: %@";
